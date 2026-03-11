@@ -1,13 +1,13 @@
-# Hi, I'm Navjot
+## Hi, I'm Navjot
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=navjotmaan&show_icons=true&theme=dark&hide=stars,issues&hide_rank=true)
+<p>Full-stack developer with a passion for building on the web.</p>
+<p>I build stuff using <b>PERN</b> stack.</p>  
+<p>Avid reader of books, essays, and blog posts — and an aspiring writer.</p>
+<p>Building my own writing app because the existing options don't meet my needs.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navjotmaan&layout=donut&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=navjotmaan&currStreakNum=00b4d8&ring=ffb703&currStreakLabel=fff&fire=c1121f&sideLabels=fff&theme=dark&date_format=M%20j,%20Y)](https://git.io/streak-stats)
-
-## Languages and tools
+##  Technologies and Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,postgres,postman,git,github,vscode,vite)](https://skillicons.dev) -->
+<b>Frontend: </b>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </a>
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </a>
 
+<b>Backend: </b>
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </a>
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </a>
 
+<b>Tools: </b>
 <a href="https://axios-http.com/" target="_blank">
   <img src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </a>
@@ -47,10 +49,17 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+## Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navjotmaan&show_icons=true&theme=dark&hide=stars,issues&hide_rank=true" width="40%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navjotmaan&layout=compact&theme=dark" width="34%" />
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=navjotmaan&currStreakNum=00b4d8&ring=ffb703&currStreakLabel=fff&fire=c1121f&sideLabels=fff&theme=dark&date_format=M%20j,%20Y)](https://git.io/streak-stats)
+</div>
 
 
 
