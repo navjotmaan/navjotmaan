@@ -1,11 +1,10 @@
 ## Hi, I'm Navjot
 
 <p>Full-stack developer with a passion for building on the web.</p>
-<p>I build stuff using <b>PERN</b> stack.</p>  
-<p>Avid reader of books, essays, and blog posts — and an aspiring writer.</p>
-<p>Building my own writing app because the existing options don't meet my needs.</p>
 
-##  Technologies and Tools
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+###  Technologies and Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,postgres,postman,git,github,vscode,vite)](https://skillicons.dev) -->
 <b>Frontend: </b>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -16,6 +15,9 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </a>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -42,6 +44,12 @@
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </a>
+<a href="https://www.passportjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/passport.js-%2338B2AC.svg?style=for-the-badge&logo=passport&logoColor=white" alt="Passport.js" />
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
@@ -49,14 +57,9 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-## Stats
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navjotmaan&show_icons=true&theme=dark&hide=stars,issues&hide_rank=true" width="40%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navjotmaan&layout=compact&theme=dark" width="34%" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=navjotmaan&currStreakNum=00b4d8&ring=ffb703&currStreakLabel=fff&fire=c1121f&sideLabels=fff&theme=dark&date_format=M%20j,%20Y)](https://git.io/streak-stats)
 </div>
